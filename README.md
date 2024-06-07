@@ -127,5 +127,3 @@ Este componente é responsável por exibir a lista de filmes com base nos filtro
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Desenvolvido com ❤️ por [Seu Nome].
